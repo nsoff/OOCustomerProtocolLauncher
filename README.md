@@ -24,7 +24,7 @@
 
 ### 1. 安装
 
-使用publish.bat编译发布文件,利用setup.iss脚本生成安装包进行安装。
+使用publish.bat编译发布文件,Inno Setup Compiler利用setup.iss脚本生成安装包进行安装。
 
 ### 2. 使用
 
