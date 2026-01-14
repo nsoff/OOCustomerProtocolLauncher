@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDOpenOffice", "BDOpenOffice.csproj", "{C9E5BC54-88DC-40D2-998E-64F481C26BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E5BC54-88DC-40D2-998E-64F481C26BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E5BC54-88DC-40D2-998E-64F481C26BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E5BC54-88DC-40D2-998E-64F481C26BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E5BC54-88DC-40D2-998E-64F481C26BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F5DD42-5D6D-49DA-95D2-BB74FAC41051}
+	EndGlobalSection
+EndGlobal
